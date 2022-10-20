@@ -112,8 +112,8 @@
 
 					<!-- 회원가입, 비밀번호 찾기 -->
 					<div class="e_other">
-						<a class="e_join_member" href="/all/join">회원가입</a> <a
-							class="e_find_pass" href="#">비밀번호 찾기</a>
+						<a class="e_join_member" href="/all/member/join">회원가입</a> <a
+							class="e_find_pass" href="/all/member/findid">아이디/비밀번호 찾기</a>
 					</div>
 				</form>
 			</div>
